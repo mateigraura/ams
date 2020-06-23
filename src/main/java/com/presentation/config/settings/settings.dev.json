@@ -1,0 +1,13 @@
+{
+  "db": {
+    "url": "jdbc:mysql://localhost:3306/lsmdb",
+    "username": "root",
+    "password": ""
+  },
+  "dataOrigin": {
+    "flights": "database",
+    "airlines": "database",
+    "departures": "mock",
+    "issues": "database"
+  }
+}
