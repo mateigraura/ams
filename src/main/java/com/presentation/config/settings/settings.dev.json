@@ -1,8 +1,8 @@
 {
   "db": {
-    "url": "jdbc:mysql://localhost:3306/lsmdb",
-    "username": "root",
-    "password": ""
+    "url": "jdbc:mysql://your_host:your_port/your_db_name",
+    "username": "your_username",
+    "password": "your_password"
   },
   "dataOrigin": {
     "flights": "database",
